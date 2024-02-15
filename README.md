@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Murad Ali Khan</h1>
 
  ### About Me:
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: itsmurad07@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- 🔭 I'm a professional Flutter developer.
+- 🌱 Currently, I'm expanding my skills into Backend development.
+- 💬 Feel free to ask me anything about Flutter 
+- 📫 You can reach me at itsmurad07@gmail.com
+- 🎯 Always striving to improve my coding skills and learn new technologies.
 
   
 ### Connect with me:
