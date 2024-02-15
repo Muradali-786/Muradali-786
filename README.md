@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Murad Ali Khan</h1>
 
+ ### About Me:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
@@ -31,9 +32,18 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
 
 
+### GitHub Stats:
 ![Murad Ali Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muradali-786&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muradali-786&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Muradali-786&theme=dark&hide_border=false)<br/>
+
+### GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Muradali-786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Muradali-786&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <br>
