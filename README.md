@@ -12,8 +12,9 @@
   <a href="https://github.com/Muradali-786">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+ <a href="https://www.linkedin.com/in/flutterdevelopermurad/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
   </a>
    <a href="https://www.instagram.com">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -27,7 +28,8 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,photoshop,python,java,javascript,mysql,sqlite&perline=6)](https://skillicons.dev)
+
 
 ![Murad Ali Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muradali-786&show_icons=true&theme=dark)
 
